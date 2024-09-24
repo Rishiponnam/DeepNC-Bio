@@ -1,0 +1,7 @@
+dataset,model,rmse,mse,pearson,spearman,ci
+davis,GEN,0.772,0.597,0.513,0.494,0.765
+davis,GCNNet,0.818,0.669,0.408,0.427,0.726
+kiba,GEN,0.764,0.583,0.487,0.54,0.702
+kiba,GCNNet,0.764,0.583,0.419,0.483,0.679
+allergy,GEN,3.927,15.42,-0.029,-0.064,0.478
+allergy,GCNNet,3.953,15.625,-0.06,-0.11,0.459
